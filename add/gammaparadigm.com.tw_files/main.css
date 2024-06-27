@@ -611,7 +611,8 @@ header .es_wrap{
     background-color: #fff;
 }
 .hws_head{
-    display: flex;
+    display: none;
+    /*display: flex;*/
     padding: 17vh 0 10vh;
 }
 .hws_head > div{
